@@ -1,0 +1,4 @@
+render = "Template"
+
+[Template]
+template = "home.html"
